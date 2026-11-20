@@ -27,6 +27,7 @@ Windows may show a SmartScreen warning since this app isn't code-signed.
 Click "More info" → "Run anyway" to launch it. This is expected for
 small unsigned apps and does not mean the app is unsafe.
 
+Version 1.0 (Release) is NOT supported anymore.
 ## License
 
 See [LICENSE](LICENSE).
